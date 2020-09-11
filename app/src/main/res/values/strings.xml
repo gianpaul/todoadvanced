@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="outstand">Pendientes</string>
+    <string name="complet">Completados</string>
+    <string name="item_add_title">Nuevo Item</string>
+    <string name="item_delete_title">Eliminar Item</string>
+    <string name="item_edit_title">Editar Item</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="accept">Aceptar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_message">Se agrego un nuevo item</string>
+    <string name="edit_message">Se edito un item</string>
+    <string name="delete_message">Se elimino un item</string>
+</resources>
